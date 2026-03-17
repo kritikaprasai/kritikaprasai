@@ -5,9 +5,9 @@ Deep Learning + Genomics, Bioinformatics, Protein Mutation fitness
 
 ---
 
-> I build data-driven models at the intersection of machine learning and infectious disease — turning complex biological sequences into actionable insights for pandemic preparedness and vaccine design.
+> I build data-driven models at the intersection of machine learning and infectious disease turning complex biological sequences into actionable insights for pandemic preparedness and vaccine design.
 
-I apply **protein language models** and **deep learning** to problems in genomics, focusing on influenza and emerging viruses — from raw sequencing data to interpretable models that inform real-world decisions.
+I apply **protein language models** and **deep learning** to problems in genomics, focusing on influenza and emerging viruses from raw sequencing data to interpretable models that inform real-world decisions.
 
 ---
 
@@ -26,7 +26,7 @@ RNA-seq pipelines using GLMs and quasi-likelihood tests; visualization of gene n
 
 ## Publications
 
-- **Epitope-spanning antigenic variation in influenza** — *Accepted, Nature Communications* (2026)
+- **Epitope-spanning antigenic variation in influenza** — *Nature Communications* (2026)
 - **Intrahost HA polymorphisms and antigenic profiles of H3N2** (2026)
 - **Prediction models for COVID-19 disease outcomes** (2024)
 
