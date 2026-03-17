@@ -1,7 +1,7 @@
 # Kritika Prasai
 
 **Ph.D. Candidate, Computer Science · University of Missouri**  
-· Deep Learning + Genomics ·  · Bioinformatics · Protein Modeling ·
+Deep Learning + Genomics, Bioinformatics, Protein Mutation fitness
 
 ---
 
