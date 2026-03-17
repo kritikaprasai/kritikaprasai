@@ -1,7 +1,7 @@
 # Kritika Prasai
 
 **Ph.D. Candidate, Computer Science · University of Missouri**  
-`Nature Communications (accepted)` · Deep Learning + Genomics · Protein Modeling · Pandemic Risk
+· Deep Learning + Genomics ·  · Bioinformatics · Protein Modeling ·
 
 ---
 
